@@ -1,10 +1,11 @@
 {
   "name": "portfolio-tw-vite",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.1.0",
+  "author":"Sanjampreet Singh",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
